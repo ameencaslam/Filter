@@ -86,3 +86,8 @@ project/
 
 - Ensure that the `data/fake` and `data/real` directories are populated with images before starting the application.
 - The application auto-generates `fake.csv` and `real.csv` files to track image statuses.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
