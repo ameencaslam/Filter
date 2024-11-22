@@ -10,6 +10,10 @@ This is a Flask-based web application that allows users to filter images in two 
 - **Progress Tracking**: Displays filtering progress with statistics and a progress bar.
 - **Interactive UI**: A grid-based image gallery with easy toggling of image states (true/false).
 
+## Preview
+
+![Image Filtering Tool Screenshot](https://i.postimg.cc/5NvH4JGf/Screenshot-20241122-120055.png)
+
 ## Project Structure
 
 ```plaintext
