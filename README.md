@@ -38,6 +38,26 @@ project/
 - Pandas
 - A web browser for accessing the application.
 
+## Dataset
+
+This project was created to deal with and the "Three-Body Images" dataset, which is available on Kaggle. You can use any other datasets or files as you need as long as you follow the folder structure. You can explore and download the dataset from the following link:
+
+[Three-Body Images Dataset on Kaggle](https://www.kaggle.com/datasets/ameencaslam/three-body-images)
+
+### Organizing the Dataset
+
+After downloading the dataset:
+1. Extract the contents into the `data/` directory:
+    ```
+    project/
+    ├── data/
+    │   ├── fake/  # Place "fake" dataset images here.
+    │   └── real/  # Place "real" dataset images here.
+    ```
+2. Ensure that the directory structure matches the expected format, as shown above.
+
+
+
 ## Setup
 
 1. Clone the repository:
@@ -51,7 +71,7 @@ project/
     pip install -r requirements.txt
     ```
 
-3. Create the required directories and populate them with images:
+3. Create the required directories and populate them with images (For your custom datasets or files):
     ```plaintext
     project/
     ├── data/
