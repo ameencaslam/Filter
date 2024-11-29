@@ -66,6 +66,17 @@ After downloading the dataset:
     cd Filter
     ```
 
+- Optional Step
+ 
+  - Install Virtual Environment:
+    ```bash
+    python -m venv venv
+    ```
+  - Activate venv:
+    ```bash
+    venv\Scripts\activate
+    ```
+
 2. Install dependencies:
     ```bash
     pip install -r requirements.txt
